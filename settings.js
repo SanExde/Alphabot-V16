@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://saipulanuar.ga': '921a7l9pho2',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://saipulanuar.ga': 'ZQ5mbiXy',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
